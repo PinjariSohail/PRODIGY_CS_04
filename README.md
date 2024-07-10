@@ -6,7 +6,7 @@ Create a basic keylogger program that records and logs kaystokes. Focus on loggi
 
 **Features:**
 
-The program imports time details form the device and the details from the keyboard thst which key or letter is pressed by the user.
+The program imports time details form the device and the details from the keyboard which key or letter is pressed by the user.
 
 The program generates a text file in the same location where the code is saved. This text file contains the keylog details in normal text formate.
 
